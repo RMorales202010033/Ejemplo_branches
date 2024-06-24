@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Modal, Button } from 'react-bootstrap';
 import './Styles/Login.css';
 import Swal from 'sweetalert2';
+import './Styles/Login2.css';
 
 export const Admin = () => {
     // Se declaran los estados iniciales
