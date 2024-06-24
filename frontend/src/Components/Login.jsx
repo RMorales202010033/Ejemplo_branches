@@ -78,7 +78,7 @@ function Login() {
                     <div className="col-md-6 mx-auto">
                         <div className="card">
                             <div className="card-body">
-                                <h2 className="card-title text-center mb-4">Inicio de Sesión</h2>
+                                <h2 className="card-title text-center mb-4">Inicio de Sesión 1</h2>
                                 <form onSubmit={handleSubmit} className='form-signin w-100 m-auto'>
                                     <div className="form-floating" style={{ width: "100%" }}>
                                         <input
