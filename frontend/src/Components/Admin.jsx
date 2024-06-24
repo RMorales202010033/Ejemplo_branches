@@ -3,6 +3,7 @@ import { Modal, Button } from 'react-bootstrap';
 import './Styles/Login.css';
 import Swal from 'sweetalert2';
 import './Styles/Login2.css';
+import './Styles/Login3.css';
 
 export const Admin = () => {
     // Se declaran los estados iniciales
